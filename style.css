@@ -1,0 +1,63 @@
+/* body {
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #0b5e2a 0%, #1779a0 50%, #0b329c 100%);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+} */
+
+body {
+    background-image: url("ensat1.jpg");
+    background-color: #1e7756;
+    backdrop-filter: blur(2px);
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+
+  .input{
+      width : 350px;
+  }
+
+  
+table {
+    margin: 0 auto;
+    font-size: large;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    color: #1614a1;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+td {
+    background-color: #d4d7f5;
+    border: 1px solid black;
+}
+
+th,
+td {
+    font-weight: bold;
+    background-color: #d4d7f5;
+
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}
+
+p{
+    font-family: cursive;
+}
+
+.link {
+    color: rgb(0, 0, 0);
+}
